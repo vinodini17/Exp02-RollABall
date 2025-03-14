@@ -1,6 +1,3 @@
-# Exp02-RollABall
-## Program:
-```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -45,4 +42,3 @@ public class move : MonoBehaviour
 
     }
 }
-```
